@@ -2,4 +2,4 @@
 
 ## Descripción
 
-Práctica: TODO Machine. Curso de introducción a Angular
+Práctica: My Store. Curso de introducción a Angular
